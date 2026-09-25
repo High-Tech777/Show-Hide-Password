@@ -38,3 +38,10 @@ body {
     float: right;
 }
 
+.eye-icon:hover {
+    cursor: pointer;
+}
+
+.eye-icon:visited {
+    color: red;
+}
