@@ -1,0 +1,40 @@
+body {
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+.container {
+    width: 30%;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+.Enter {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 20%;
+    background-color: bisque;
+}
+
+.input {
+    border: 1px solid black;
+}
+
+#password {
+    float: left;
+    outline: none;
+    border: none;
+    width: 85%;
+    background-color: bisque;
+}
+
+.eye-icon {
+    float: right;
+}
+
